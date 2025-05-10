@@ -8,7 +8,7 @@ const categories = [
   },
   { 
     name: "Business", 
-    img: "https://images.unsplash.com/photo-1465101178521-c1a9136a5257?auto=format&fit=crop&w=400&q=80",
+    img: "https://i.fbcd.co/products/original/b9425668f085f93c4655202b0444bd89b4c0ddff773d905b065775e551903772.jpg",
     description: "Master leadership, strategy, and entrepreneurship skills."
   },
   { 
@@ -23,7 +23,7 @@ const categories = [
   },
   { 
     name: "Personal Development", 
-    img: "https://images.unsplash.com/photo-1485841890310-6a055c88698a?auto=format&fit=crop&w=400&q=80",
+    img: "https://media.licdn.com/dms/image/v2/D5612AQHRvG92fFzzAQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687758059448?e=2147483647&v=beta&t=FSMh6Oth25VNYUzZja3adLZZlr17ubewSJUtg7LCmu4",
     description: "Enhance communication, productivity, and self-growth."
   },
   { 
